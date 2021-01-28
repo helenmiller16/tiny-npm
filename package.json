@@ -2,5 +2,11 @@
   "name": "@helenthehuman/tiny",
   "version": "1.0.4",
   "repository": "helenmiller16/tiny-npm",
-  "license": "ISC-2"
+  "license": "ISC-2",
+  "keywords": [
+    "tiny",
+    "npm",
+    "package",
+    "bamblehorse"
+  ]
 }
