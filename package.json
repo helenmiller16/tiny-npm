@@ -1,5 +1,6 @@
 {
   "name": "@helenthehuman/tiny",
   "version": "1.0.3",
-  "repository": "helenmiller16/tiny-npm"
+  "repository": "helenmiller16/tiny-npm",
+  "license": "ISC-2"
 }
